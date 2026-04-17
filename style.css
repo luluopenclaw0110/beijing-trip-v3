@@ -1,0 +1,4 @@
+/* 北京旅遊樣式 */
+body { margin: 0; font-family: sans-serif; }
+.header { background: #333; color: white; padding: 15px; }
+.footer { background: #333; color: white; padding: 20px; text-align: center; }
